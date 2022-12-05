@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AniaSk29
-- 👀 I’m interested in testing of Web application and API.
+- 👀 I’m interested in testing of Web application and REST API.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
